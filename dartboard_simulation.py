@@ -9,9 +9,8 @@ class DartboardSimulator:
         # Official dartboard layout (clockwise from top)
         self.sectors = [20, 1, 18, 4, 13, 6, 10, 15, 2, 17, 3, 19, 7, 16, 8, 11, 14, 9, 12, 5]
         
-        # Dartboard dimensions (in mm, scaled down)
-        self.outer_bull_radius = 15.9 / 2  # Outer bull radius
-        self.inner_bull_radius = 12.7 / 2  # Inner bull radius
+        self.outer_bull_radius = 16 / 2  # Outer bull radius
+        self.inner_bull_radius = 6.35 / 2  # Inner bull radius
         self.triple_inner_radius = 99 / 2  # Inner edge of triple ring
         self.triple_outer_radius = 107 / 2 # Outer edge of triple ring
         self.double_inner_radius = 162 / 2 # Inner edge of double ring
