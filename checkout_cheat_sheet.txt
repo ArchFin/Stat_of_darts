@@ -1,0 +1,122 @@
+DARTBOARD CHECKOUT CHEAT SHEET
+==================================================
+
+170:
+     3-dart: 60 → 60 → Bull
+
+167:
+     3-dart: 57 → 60 → Bull
+
+164:
+     3-dart: 54 → 60 → Bull
+
+161:
+     3-dart: 51 → 60 → Bull
+
+158:
+     3-dart: 48 → 60 → Bull
+
+156:
+     3-dart: 60 → 60 → D18
+
+155:
+     3-dart: 45 → 60 → Bull
+
+152:
+     3-dart: 42 → 60 → Bull
+
+150:
+     3-dart: 40 → 60 → Bull
+
+141:
+     3-dart: 34 → 57 → Bull
+
+140:
+     3-dart: 30 → 60 → Bull
+
+138:
+     3-dart: 28 → 60 → Bull
+
+137:
+     3-dart: 27 → 60 → Bull
+
+136:
+     3-dart: 26 → 60 → Bull
+
+135:
+     3-dart: 25 → 60 → Bull
+
+132:
+     3-dart: 22 → 60 → Bull
+
+130:
+     3-dart: 20 → 60 → Bull
+
+129:
+     3-dart: 19 → 60 → Bull
+
+128:
+     3-dart: 18 → 60 → Bull
+
+127:
+     3-dart: 17 → 60 → Bull
+
+126:
+     3-dart: 16 → 60 → Bull
+
+125:
+     3-dart: 15 → 60 → Bull
+
+124:
+     3-dart: 14 → 60 → Bull
+
+123:
+     3-dart: 13 → 60 → Bull
+
+122:
+     3-dart: 12 → 60 → Bull
+
+121:
+     3-dart: 11 → 60 → Bull
+
+120:
+     3-dart: 10 → 60 → Bull
+
+110:
+     2-dart: 60 → Bull
+
+100:
+     2-dart: 60 → D20
+     2-dart: 50 → Bull
+
+ 90:
+     2-dart: 60 → D15
+     2-dart: 54 → D18
+
+ 80:
+     2-dart: 60 → D10
+     2-dart: 54 → D13
+
+ 70:
+     2-dart: 60 → D5
+     2-dart: 54 → D8
+
+ 60:
+     2-dart: 54 → D3
+     2-dart: 50 → D5
+
+ 50:
+     1-dart: [50]
+     2-dart: 48 → D1
+     2-dart: 42 → D4
+
+ 40:
+     1-dart: [40]
+     2-dart: 38 → D1
+     2-dart: 36 → D2
+
+ 32:
+     1-dart: [32]
+     2-dart: 30 → D1
+     2-dart: 28 → D2
+

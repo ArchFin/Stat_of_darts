@@ -297,7 +297,7 @@ class DartboardOptimiser:
         self.plot_dartboard_with_aim(ax2, optimal_x, optimal_y, accuracy_std)
         
         plt.tight_layout()
-        plt.savefig(f"/Users/a_fin/Documents/Stat_of_darts/dartboard_optimisation_std{accuracy_std:.1f}.png", 
+        plt.savefig(f"/Users/a_fin/Documents/Stat_of_darts/results/dartboard_optimisation_std{accuracy_std:.1f}.png", 
                    dpi=300, bbox_inches='tight')
         plt.close()
         
@@ -317,7 +317,7 @@ class DartboardOptimiser:
         plt.colorbar(surf, ax=ax3, shrink=0.5)
         ax3.legend()
         
-        plt.savefig(f"/Users/a_fin/Documents/Stat_of_darts/dartboard_3d_surface_std{accuracy_std:.1f}.png", 
+        plt.savefig(f"/Users/a_fin/Documents/Stat_of_darts/results/dartboard_3d_surface_std{accuracy_std:.1f}.png", 
                    dpi=300, bbox_inches='tight')
         plt.close()
 
@@ -450,8 +450,8 @@ class DartboardOptimiser:
         ax.set_title('Optimal Aim Points vs Accuracy Level', fontweight='bold')
         ax.legend()
         ax.grid(True, alpha=0.3)
-        
-        plt.savefig("/Users/a_fin/Documents/Stat_of_darts/accuracy_comparison.png", 
+
+        plt.savefig("/Users/a_fin/Documents/Stat_of_darts/results/accuracy_comparison.png", 
                    dpi=300, bbox_inches='tight')
         plt.close()
         
